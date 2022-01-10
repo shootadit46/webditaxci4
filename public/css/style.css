@@ -1,0 +1,40 @@
+/* 
+body{
+  min-height: 2000px; (buat panjangin layar kebawah biar bisa kescroll)
+}
+*/
+
+a.social {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  color: #ffffff;
+  border-radius: 50%;
+  background-color: #333;
+  line-height: 50px;
+}
+
+.tim img {
+  width: 250px;
+  border: 5px solid #cccccc;
+}
+
+.jumbotron {
+  padding: 2rem 1rem;
+}
+
+.client img {
+
+  max-height: 80px;
+}
+
+.img a:hover {
+  background: #0D6EFD;
+  text-decoration: none;
+  transition: all 0.3s ease 0s;
+}
+
+.panah:hover {
+  transition: all 0.5s ease 0s;
+  text-indent: 20px;
+}
